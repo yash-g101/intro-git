@@ -4,3 +4,4 @@
 
 satyam.txt
 new-name
+manas.txt
